@@ -1,1 +1,6 @@
 Flask
+gluoncv
+matplotlib
+mxnet
+requests
+Pillow
